@@ -1,13 +1,3 @@
-/* Daniel Paul Iuliano
-z3101121
-diuliano@gmail.com
-Thesis Topic University of New South Wales
-Supervisor: Tim Moors
-The PC Switch
-
-8 port Banyan switching Fabric
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
